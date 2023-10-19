@@ -1,0 +1,22 @@
+body {
+  background-color: #f4f5f8;
+}
+
+.dropdown-menu {
+  --bs-dropdown-min-width: 15rem;
+}
+
+.user-img{
+  position: relative;
+}
+
+.available-status {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transform: translate(25%, 25%);
+}
+
+.col-sm-2 {
+  width: 18.5%;
+}
